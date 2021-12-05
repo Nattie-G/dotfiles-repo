@@ -1,0 +1,27 @@
+! font config copied from https://wiki.archlinux.org/title/HiDPI
+! because it seems to be designed for the same series of laptop.
+Xft.dpi: 192
+Xft.hintstyle:  hintfull
+
+! Previous font config
+! Xft.dpi:       175
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.autohint:  false
+! Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+XTerm*background:        #1a1a1a
+XTerm*foreground:        #ceca2
+XTerm*pointerColor:      #1ABB9B
+XTerm*faceName:          Fixed
+XTerm*faceSize:          11
+XTerm*reverseVideo:      on
+XTerm*selectToClipboard: true
+
+! URxvt colorscheme
+#include ".Xresources.d/URxvt"
+
+Xcursor.theme: Adwaita
+Xcursor.size:                     50
