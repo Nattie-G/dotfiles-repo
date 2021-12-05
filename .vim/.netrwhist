@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/nathang/.config/gtk-3.0'
+let g:netrw_dirhist_9='/home/nathang/.config/gtk-2.0'
+let g:netrw_dirhist_8='/home/nathang/.config/alacritty'
+let g:netrw_dirhist_7='/home/nathang/.config'
+let g:netrw_dirhist_6='/home/nathang/.config/cmus'
+let g:netrw_dirhist_5='/home/nathang/.config'
+let g:netrw_dirhist_4='/home/nathang'
+let g:netrw_dirhist_3='/home/nathang/.config/ranger'
+let g:netrw_dirhist_2='/home/nathang/.config/pcmanfm/default'
+let g:netrw_dirhist_1='/home/nathang/.i3'
