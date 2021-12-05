@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/n/.mozilla/firefox/upkgie8y.default-release/chrome'
+let g:netrw_dirhist_3='/home/n/Documents/vis/antfarm/objects'
+let g:netrw_dirhist_2='/home/n/Documents/vis/antfarm'
+let g:netrw_dirhist_1='/home/n/Documents/vis'
+let g:netrw_dirhist_0='/home/n/Documents/vis/functions'
+let g:netrw_dirhist_9='/home/n/Documents/vis/antfarm/objects'
+let g:netrw_dirhist_8='/home/n/Documents/vis/antfarm'
+let g:netrw_dirhist_7='/home/n/Documents/vis/antfarm/libraries'
+let g:netrw_dirhist_6='/home/n/Documents/vis/antfarm'
+let g:netrw_dirhist_5='/home/n/.SpaceVim.d/autoload'
